@@ -24,6 +24,7 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 	<head>
+
 		<title>LOGIN DO USUÁRIO</title>
 		<!-- Meta tags Obrigatórias -->
 		<meta charset="utf-8" />
@@ -41,7 +42,8 @@
 			  align-items: center;
 			  padding-top: 40px;
 			  padding-bottom: 40px;
-			  background-color: #f5f5f5;
+			  background-color: #b2ad7f;
+			  
 			}
 		</style>	
 	</head>
